@@ -22,8 +22,8 @@ WX_PlUGIN_EXPORT_COMPONENT(tr-dropdown-menu, TRDropDownMenuComponent)
     self = [super initWithRef:ref type:type styles:styles attributes:attributes events:events weexInstance:weexInstance];
     return self;
 }
-- (UIView *) loadView
-{
+// - (UIView *) loadView
+// {
     
-}
+// }
 @end

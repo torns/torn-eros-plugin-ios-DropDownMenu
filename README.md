@@ -1,4 +1,4 @@
-# trQrcode
+# TornErosPluginDropDownMenu
 
 > 功能简介：下拉菜单选择器插件；
 
